@@ -6,12 +6,12 @@ const Contact = () => {
   return (
     <>
       <Head>
-        <title>Contact Saurav Ghimire</title>
+        <title>Contact Sanzip Chhetri</title>
         <meta
           name="description"
-          content="Contact Saurav Ghimire using email address:gsaurav2000@gmail.com"
+          content="Contact Sanzip Chhetri using email address:sanjeeev@darshansolutions.com"
         ></meta>
-        <link rel="icon" href="./logo1.svg" />
+        <link rel="icon" href="./SC.png" />
       </Head>
       <Container
         maxWidth={{

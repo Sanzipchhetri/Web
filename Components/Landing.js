@@ -49,7 +49,7 @@ const Landing = () => {
                 color={textColor}
                 fontWeight={"bold"}
               >
-                Hi,I am Saurav Ghimire.
+                Hi,I am Sanzip Chhetri.
               </Text>
             </motion.div>
 
@@ -59,7 +59,7 @@ const Landing = () => {
                 maxW={{ base: "100%", lg: "70%" }}
                 fontSize={"md"}
               >
-                I&apos;m a developer and a student of technology. I work at{" "}
+                I&apos;m a Digital Marketer and a student of technology. I work at{" "}
                 <t />
                 <Link color={linkColor}>
                   <a
@@ -70,7 +70,7 @@ const Landing = () => {
                     Darshan Solutions <t />
                   </a>
                 </Link>
-                as a full stack developer and also a part of core management
+                as a Digital Marketing Manager and also a part of core management
                 team. Having fun while bulding is my passion. I'm also a great
                 learner and reader who love to learn new things.
               </Text>
@@ -92,7 +92,7 @@ const Landing = () => {
                 <SocialLinks
                   iconAriaName="Github"
                   iconName={<AiFillGithub />}
-                  linkButton="https://github.com/gsauarv"
+                  linkButton="https://github.com/Sanzipchhetri"
                 />
               </motion.div>
 
@@ -108,7 +108,7 @@ const Landing = () => {
                 <SocialLinks
                   iconAriaName="instagram"
                   iconName={<AiFillInstagram />}
-                  linkButton="https://instagram.com/gh_saurav"
+                  linkButton="https://www.instagram.com/sanzip10110/"
                 />
               </motion.div>
 
@@ -116,7 +116,7 @@ const Landing = () => {
                 <SocialLinks
                   iconAriaName="linkedin"
                   iconName={<AiFillLinkedin />}
-                  linkButton="https://bit.ly/3JoLw6P"
+                  linkButton="https://www.linkedin.com/in/sanzip-chhetri-467108185/"
                 />
               </motion.div>
             </Flex>
@@ -137,7 +137,7 @@ const Landing = () => {
           >
             <Image
               src={"/logo3.png"}
-              alt="Saurav Ghimire"
+              alt="Sanzip Chhetri"
               margin="0"
               padding={"0"}
               mx={{ base: "auto", lg: "0" }}

@@ -23,7 +23,7 @@ const AboutComponent = () => {
                 letterSpacing="wide"
                 fontWeight="bold"
               >
-                Hi, I&apos;m Saurav Ghimire
+                Hi, I&apos;m Sanzip Jung Chhetri
               </Text>
             </motion.div>
 
@@ -34,7 +34,7 @@ const AboutComponent = () => {
                 color="gray.600"
                 width={{ base: "full", md: "md", lg: "md" }}
               >
-                Currently pursuing a Bachelor in Computer Science at
+                Graduated a Bachelor in Computer Science at
                 Infrastructure University.
               </Text>
             </motion.div>
@@ -53,12 +53,12 @@ const AboutComponent = () => {
             <motion.div variants={fadeInUp}>
               <div className={style.divImg}>
                 <Image
-                  width={1780}
-                  height={3000}
+                  width={524}
+                  height={524}
                   className={style.mainImage}
                   quality="50"
                   alt="my image"
-                  src="/me.jpg"
+                  src="/logo3.png"
                   loading="lazy"
                 ></Image>
               </div>
@@ -92,7 +92,7 @@ const AboutComponent = () => {
             </motion.div>
 
             <motion.div initial="initial" animate="animate" variants={fadeInUp}>
-              <Link href="https://drive.google.com/file/d/12yT-Gfko3H5Fbz3Q3-1ezOmRSYnpp8QL/view?usp=sharing">
+              <Link href="https://www.pinterest.com/sanzip101/_created/">
                 <a target="_blank" width="xs">
                   {" "}
                   <Button
@@ -102,7 +102,7 @@ const AboutComponent = () => {
                     mt="5"
                     mb="10"
                   >
-                    View My Resume
+                    View My Works
                   </Button>
                 </a>
               </Link>

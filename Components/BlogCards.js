@@ -24,7 +24,7 @@ function BlogCards() {
           fontWeight={"bold"}
           colorScheme={"whiteAlpha"}
         >
-          How to create a React App using create-react-app
+          Learn Social Media Marketing.
         </Text>
 
         {/* date and read status */}
@@ -44,8 +44,7 @@ function BlogCards() {
         </Flex>
 
         <Text color={"gray.600"} fontSize={{ base: "sm", md: "md" }}>
-          My Take On The History Of Mobile Devices And The Evolution Of Mobile
-          Programming.{" "}
+          Coming Soon. {" "}
         </Text>
       </Box>
     </div>

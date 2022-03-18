@@ -13,12 +13,12 @@ const AuthorAvatar = () => {
     <Stack direction="row" alignItems="center" mt="5" mb="32">
       <Avatar
         size="md"
-        name="Saurav Ghimire"
+        name="Sanzip Chhetri"
         src="https://pbs.twimg.com/profile_images/1248946272288927745/FB3qkyYZ.jpg"
       />
       <Flex direction="column">
         <Text fontSize="md" fontWeight="bold">
-          Saurav Ghimire
+          Sanzip Chhetri
         </Text>
         <Text fontSize="sm">Author/Creator</Text>
       </Flex>

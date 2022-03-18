@@ -51,10 +51,10 @@ const Navbar = () => {
           <Link href="/">
             <a>
               <Image
-                src={"/logo1.svg"}
-                alt="Saurav Ghimire"
-                width={"50"}
-                height={"50"}
+                src={"/SC.png"}
+                alt="Sanzip Chhetri"
+                width={"120"}
+                height={"100"}
                 quality={100}
               ></Image>
             </a>
@@ -106,7 +106,7 @@ const Navbar = () => {
               <DrawerLink linkName="Home" linkPath="/" />
               <DrawerLink linkName="About" linkPath="/about" />
               <DrawerLink linkName="Blogs" linkPath="/blogs" />
-              <DrawerLink linkName="Projects" linkPath="/projects" />
+              {/* <DrawerLink linkName="Projects" linkPath="/projects" /> */}
               <DrawerLink linkName="Contact" linkPath="/contact" />
             </Flex>
           </DrawerBody>

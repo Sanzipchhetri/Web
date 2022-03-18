@@ -20,19 +20,19 @@ export default function Home({ results }) {
     <>
       {/* header implemented for seo */}
       <Head>
-        <title>Saurav Ghimire - Front End Developer & Student</title>
+        <title>Sanzip Chhetri - Digital Marketing Manager</title>
         <meta
           name="description"
-          content="I'm a developer and a student of technology. I work at Darshan Solutions as a full stack developer and also a part of core management
+          content="I'm a Digital Marketer and a student of technology. I work at Darshan Solutions as a Digital Marketing Manager and also a part of core management
                 team. Having fun while bulding is my passion. I also a great
                 learner and reader who love to learn new things."
         />
-        <meta property="og:title" content="Saurav Ghimire" />
+        <meta property="og:title" content="Sanzip Chhetri" />
         <meta
           property="og:description"
-          content="I'm a developer and a student of technology. I work at Darshan Solutions as a full stack developer and also a part of core management
-                team. Having fun while bulding is my passion. I also a great
-                learner and reader who love to learn new things."
+          content="I'm a Digital Marketer and a student of technology. I work at Darshan Solutions as a Digital Marketing Manager and also a part of core management
+          team. Having fun while bulding is my passion. I also a great
+          learner and reader who love to learn new things."
         />
         <meta property="og:url" content="https://gsaurav.com.np" />
         <meta property="og:type" content="website" />

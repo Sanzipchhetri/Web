@@ -30,7 +30,7 @@ const ContactCard = () => {
         </motion.div>
         <motion.div variants={fadeInUp}>
           <Text fontSize="lg" letterSpacing="wide">
-            gsaurav2000@gmail.com
+            sanjeev@darshansolutions.com
           </Text>
         </motion.div>
 
@@ -45,13 +45,13 @@ const ContactCard = () => {
             <SocialLinks
               iconAriaName="Github"
               iconName={<AiFillGithub fontSize="20" />}
-              linkButton="https://github.com/gsauarv"
+              linkButton="https://github.com/Sanzipchhetri"
             />
 
             <SocialLinks
               iconAriaName="Instagram"
               iconName={<AiFillInstagram fontSize="20" />}
-              linkButton="https://instagram.com/gh_saurav"
+              linkButton="https://www.instagram.com/sanzip10110/"
             />
 
             <SocialLinks

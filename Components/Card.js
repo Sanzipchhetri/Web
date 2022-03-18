@@ -24,13 +24,11 @@ function Card() {
         fontWeight={"bold"}
         color={"white"}
       >
-        Beginners guide to ReactJs
+        Beginners guide to Digital Marketing.
       </Text>
 
       <Text color={"gray.400"} my="3" fontSize={{ base: "sm", md: "md" }}>
-        In this course, we will learn the basic introduction of ReactJs like
-        create-react-app,jsx,components,data fetching and more. Also we will
-        learn how to deploy the application on vercel.
+        Coming Soon.
       </Text>
     </Box>
   );

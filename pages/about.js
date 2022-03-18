@@ -8,10 +8,10 @@ const About = () => {
   return (
     <>
       <Head>
-        <title>Learn who is Saurav Ghimire</title>
+        <title>Learn who is Sanzip Chhetri</title>
         <meta
           name="description"
-          content="Saurav Ghimire is a passionate and hardwoking student of technology currently working on getting better."
+          content="Sanzip Chhetri is a passionate and hardwoking student of technology currently working on getting better."
         ></meta>
         <link rel="icon" href="./logo1.svg" />
       </Head>
